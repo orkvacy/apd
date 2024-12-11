@@ -25,7 +25,7 @@ def descData():
     print("\nInformasi kolom:")
     print(infoTable)
     input("Tekan enter untuk melanjutkan")
-
+# 3. Menampilkan 10 data pertama menggunakan iterrows
 def head():
     print("===== 10 Data Pertama =====")
     headTable = PrettyTable()
